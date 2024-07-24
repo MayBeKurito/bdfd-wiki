@@ -488,12 +488,3 @@ HTTP 400 Bad Request, {"message": "Invalid Form Body", "code": 50035, "errors": 
 > HTTP response [reference](https://discord.com/developers/docs/topics/opcodes-and-status-codes#:~:text=400).
 
 </details>
-
-
-
-
-
-
-
-
-
