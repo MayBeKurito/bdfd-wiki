@@ -11,7 +11,7 @@
 The function that is causing the error.
 
 **Function location:**
-![Location of function](https://media.discordapp.net/attachments/1021982737424449586/1255928553921576992/syntax_msg_error-function.png?ex=667eea1d&is=667d989d&hm=295240ddc00f1c0a97f2a87940bab47d691b958b21c6b23ede29f61da45542d4&)
+![Location of function](https://media.discordapp.net/attachments/1265766896947429460/1265767183368327229/syntax_msg_error-function.png?ex=66a2b50d&is=66a1638d&hm=c6249b2089e328b096596aa858b4e2f0edf6176659ea1683791317f7177ba501&)
 
 
 ### Row and Column
@@ -22,7 +22,7 @@ The row where the error is located.
 The column where the error is located.
 
 **Row and column location:**
-![Location of row and column](https://media.discordapp.net/attachments/1021982737424449586/1255955254789537852/syntax_msg_error-rowcolumn.png?ex=667f02fb&is=667db17b&hm=4ca5a29b2576e824e65db688973e662549f5e721b157b88f8cee4920b529bb97&)
+![Location of row and column](https://media.discordapp.net/attachments/1265766896947429460/1265767183863251015/syntax_msg_error-rowcolumn.png?ex=66a2b50d&is=66a1638d&hm=f87961792292ed4df21b5dce22a918d04d699f611fc366003f328500f7bde05d&)
 
 
 *In this case, the row is '3' and the column '15'.*
